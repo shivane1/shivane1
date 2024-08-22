@@ -2,28 +2,10 @@
   <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png" width="50px">
 </p>
 
-<h1 align="center">
-  <span style="color: red; font-family: 'Comic Sans MS', 'Comic Sans', 'cursive';">
-    <span class="wave">Hi</span> <span class="wave">👋</span>, I'm <span class="wave">Shivane Kapoor....</span>
-  </span>
+<h1 align="center" style="color: red; font-family: 'Comic Sans MS', 'Comic Sans', 'cursive';">
+  Hi 👋, I'm Shivane Kapoor....
 </h1>
 
-<style>
-@keyframes wave {
-  0% { opacity: 0; transform: translateX(-100%); }
-  100% { opacity: 1; transform: translateX(0); }
-}
-
-.wave {
-  display: inline-block;
-  animation: wave 1s ease-in-out forwards;
-}
-
-.wave:nth-child(2) { animation-delay: 0.5s; }
-.wave:nth-child(3) { animation-delay: 1s; }
-.wave:nth-child(4) { animation-delay: 1.5s; }
-.wave:nth-child(5) { animation-delay: 2s; }
-</style>
 
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <div align="center">
