@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png" width="50px">
-</p>
 
 <h1 align="center" style="color: red; font-family: 'Comic Sans MS', 'Comic Sans', 'cursive';">
   Hi 👋, I'm Shivane Kapoor....
